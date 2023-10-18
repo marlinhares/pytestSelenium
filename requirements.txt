@@ -9,6 +9,6 @@ pytest>=6.2.0
 pytest-xdist>=2.5.0
 selenium>=4
 six==1.13.0
-urllib3==1.26.5
+urllib3==1.26.18
 wcwidth==0.1.8
 zipp==0.6.0
